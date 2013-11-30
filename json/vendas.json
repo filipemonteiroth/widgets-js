@@ -1,0 +1,32 @@
+[
+  {
+    id: 1,
+    produto: "Nescau",
+    quantidade: 200,
+    total: 500
+  },
+  {
+    id: 2,
+    produto: "Arroz",
+    quantidade: 200,
+    total: 6000
+  },
+  {
+    id: 3,
+    produto: "Feijao",
+    quantidade: 300,
+    total: 1100
+  },
+  {
+    id: 4,
+    produto: "Macarrao",
+    quantidade: 500,
+    total: 1000
+  },
+  {
+    id: 5,
+    produto: "Agua",
+    quantidade: 100,
+    total: 500
+  }
+]
